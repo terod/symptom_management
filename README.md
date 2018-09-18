@@ -14,7 +14,7 @@ select Terminate
 
 ## Accessing the Service
 
-http://localhost:8080/video
+http://localhost:8080/medicine
 
 To add a test service, run the SMSvcClientApiTest by right-clicking on it in 
 Eclipse->Run As->JUnit Test (make sure that you run the application first!)
