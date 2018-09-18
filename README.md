@@ -1,4 +1,6 @@
-## Running the Video Service Application
+## Running the symptom_management Service Application
+
+This is the server part of the project. An android client will connect to this service to retrieve and save data
 
 To run the application:
 
